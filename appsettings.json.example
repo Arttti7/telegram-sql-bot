@@ -1,0 +1,5 @@
+{
+  "TelegramBotToken": "ВСТАВЬ_СЮДА_СВОЙ_ТОКЕН_ОТ_BOTFATHER",
+  "OpenRouterApiKey": "",
+  "OpenRouterModel": "qwen2.5-coder:7b"
+}
